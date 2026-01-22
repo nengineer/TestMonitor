@@ -21,7 +21,6 @@ sites:
     url: http://stretchzone.com
   - name: try.stretchzone.com
     url: http://try.stretchzone.com
-    
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
