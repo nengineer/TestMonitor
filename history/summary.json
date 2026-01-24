@@ -4,19 +4,19 @@
     "url": "http://absoluterecompgyms.com",
     "icon": "https://icons.duckduckgo.com/ip3/absoluterecompgyms.com.ico",
     "slug": "absoluterecompgyms-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 302,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
+    "time": 416,
+    "timeDay": 497,
+    "timeWeek": 416,
+    "timeMonth": 416,
+    "timeYear": 416,
     "dailyMinutesDown": {
-      "2026-01-24": 0
+      "2026-01-24": 24
     }
   },
   {
