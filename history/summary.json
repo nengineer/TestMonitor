@@ -96,19 +96,19 @@
     "url": "http://knetk.io",
     "icon": "https://icons.duckduckgo.com/ip3/knetk.io.ico",
     "slug": "knetk-io",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 484,
-    "timeDay": 310,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 477,
+    "timeDay": 366,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2026-01-27": 1
+      "2026-01-27": 31
     }
   },
   {
