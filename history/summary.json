@@ -96,19 +96,19 @@
     "url": "http://intrannuity.com",
     "icon": "https://icons.duckduckgo.com/ip3/intrannuity.com.ico",
     "slug": "intrannuity-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 312,
-    "timeWeek": 370,
-    "timeMonth": 391,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.92%",
+    "time": 384,
+    "timeDay": 376,
+    "timeWeek": 385,
+    "timeMonth": 394,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-04-01": 0
+      "2026-04-01": 81
     }
   },
   {
