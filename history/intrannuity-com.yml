@@ -1,7 +1,7 @@
 url: http://intrannuity.com
-status: up
-code: 200
-responseTime: 413
-lastUpdated: 2026-03-31T23:27:53.902Z
+status: down
+code: 503
+responseTime: 211
+lastUpdated: 2026-04-01T11:56:04.405Z
 startTime: 2026-01-22T15:20:47.323Z
 generator: Upptime <https://github.com/upptime/upptime>
